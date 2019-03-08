@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b809eca-a38c-4eb4-8de2-5868b35f0cde" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/comgupao/target/" />
+    <ignored path="$PROJECT_DIR$/parttern/target/" />
+    <ignored path="$PROJECT_DIR$/partten/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1804075510">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="OrangeFactory" value="1" />
+          <entry key="Override" value="1" />
+          <entry key="SimpleFactory" value="1" />
+          <entry key="java" value="33" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="33" />
+          <entry key="UML" value="3" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1144" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1144" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="idea" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/BeijingFactroy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#210#211#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/GuangzhouFactroy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#285#286#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactroyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/spring-framework-5.0.4.RELEASE/spring-framework-5.0.4.RELEASE" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/comgupao/pom.xml" />
+        <option value="$PROJECT_DIR$/parttern/pom.xml" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Apple.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Fruit.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Orange.java" />
+        <option value="$PROJECT_DIR$/partten/pom.xml" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/simplefactory/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/simplefactory/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/Factory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/AppleFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/OrangeFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/FactoryMethodTest.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Pork.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Meat.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Beef.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/FruitFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AppleFruitFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/OrangeFruitFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/fruitfactory/OrangeFruitFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/PorkMeatFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/BeefMeatFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/MeatFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/fruitfactory/FruitFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/BeijingFactroy.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/GuangzhouFactroy.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactroyTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/maven-3.3.9/maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partten" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partten" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partten" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partten" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partten" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gupao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partten" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gupao" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="partten" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gupao" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552049392069" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.gupao.factory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AbstractFactroyTest">
+    <configuration name="AbstractFactroyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="partten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupao.factory.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gupao.factory.abstractfactory" />
+      <option name="MAIN_CLASS_NAME" value="com.gupao.factory.abstractfactory.AbstractFactroyTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryMethodTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="partten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupao.factory.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gupao.factory.factorymethod" />
+      <option name="MAIN_CLASS_NAME" value="com.gupao.factory.factorymethod.FactoryMethodTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="partten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupao.factory.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gupao.factory.simplefactory" />
+      <option name="MAIN_CLASS_NAME" value="com.gupao.factory.simplefactory.SimpleFactoryTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="partten" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gupao.factory.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.gupao.factory.simplefactory" />
+      <option name="MAIN_CLASS_NAME" value="com.gupao.factory.simplefactory.SimpleFactoryTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SimpleFactoryTest.test" />
+      <item itemvalue="JUnit.SimpleFactoryTest.test1" />
+      <item itemvalue="JUnit.FactoryMethodTest.test" />
+      <item itemvalue="JUnit.AbstractFactroyTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AbstractFactroyTest" />
+        <item itemvalue="JUnit.FactoryMethodTest.test" />
+        <item itemvalue="JUnit.SimpleFactoryTest.test1" />
+        <item itemvalue="JUnit.SimpleFactoryTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b809eca-a38c-4eb4-8de2-5868b35f0cde" name="Default Changelist" comment="" />
+      <created>1552030285562</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552030285562</updated>
+      <workItem from="1552030288838" duration="6986000" />
+      <workItem from="1552045801173" duration="1575000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SimpleFactoryTest_test - 2019.03.08 at 15h 51m 47s.xml">
+      <configuration name="SimpleFactoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFactoryTest_test - 2019.03.08 at 15h 52m 18s.xml">
+      <configuration name="SimpleFactoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimpleFactoryTest_test1 - 2019.03.08 at 15h 56m 19s.xml">
+      <configuration name="SimpleFactoryTest.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FactoryMethodTest_test - 2019.03.08 at 16h 09m 27s.xml">
+      <configuration name="FactoryMethodTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AbstractFactroyTest - 2019.03.08 at 20h 40m 42s.xml">
+      <configuration name="AbstractFactroyTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8561000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7513812" visible="true" weight="0.25469387" />
+      <window_info id="Structure" order="1" sideWeight="0.24861878" side_tool="true" visible="true" weight="0.25469387" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" weight="0.32979593" />
+      <window_info id="Favorites" order="7" sideWeight="0.50276244" side_tool="true" weight="0.24979591" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3283859" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3283859" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.20964749" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/comgupao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parttern/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Orange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/simplefactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Apple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/simplefactory/SimpleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.gupao.factory.simplefactory.SimpleFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.gupao.factory.simplefactory.SimpleFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.gupao.factory.Orange</node>
+            <node x="" y="">com.gupao.factory.simplefactory.SimpleFactory</node>
+            <node x="" y="">com.gupao.factory.Fruit</node>
+            <node x="" y="">com.gupao.factory.Apple</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="131.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factoryMethod.java" />
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/AppleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/FactoryMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/java.lang.Override">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>java.lang.Override</OriginalElement>
+          <nodes>
+            <node x="" y="">java.lang.Override</node>
+            <node x="" y="">java.lang.annotation.Annotation</node>
+            <node x="" y="">java.lang.annotation.Target</node>
+            <node x="" y="">java.lang.annotation.Retention</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="91.0" y="145.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/OrangeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.gupao.factory.factorymethod.OrangeFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.gupao.factory.factorymethod.OrangeFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.gupao.factory.factorymethod.FactoryMethodTest</node>
+            <node x="" y="">com.gupao.factory.factorymethod.AppleFactory</node>
+            <node x="" y="">com.gupao.factory.factorymethod.Factory</node>
+            <node x="" y="">com.gupao.factory.factorymethod.OrangeFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-142.0" y="149.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstracyfactory.java" />
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Pork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Fruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Meat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Beef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/fruitfactory/OrangeFruitFactory.java" />
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/fruitfactory/AppleFruitFactory.java" />
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/BeefMeatFactory.java" />
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/PorkMeatFactory.java" />
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/MeatFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/fruitfactory/FruitFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/BeijingFactroy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/GuangzhouFactroy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactroyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
