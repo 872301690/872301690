@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.ibm.db2:db2jcc4:unknown">
+    <CLASSES>
+      <root url="jar://D:/repository/com/ibm/db2/db2jcc4/unknown/db2jcc4-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/repository/com/ibm/db2/db2jcc4/unknown/db2jcc4-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/repository/com/ibm/db2/db2jcc4/unknown/db2jcc4-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
