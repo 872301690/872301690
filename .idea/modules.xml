@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/minisring/minisring.iml" filepath="$PROJECT_DIR$/minisring/minisring.iml" />
       <module fileurl="file://$PROJECT_DIR$/partten/partten.iml" filepath="$PROJECT_DIR$/partten/partten.iml" />
     </modules>
   </component>

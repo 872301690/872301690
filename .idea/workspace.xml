@@ -1,52 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b809eca-a38c-4eb4-8de2-5868b35f0cde" name="Default Changelist" comment="" />
+    <list default="true" id="8b809eca-a38c-4eb4-8de2-5868b35f0cde" name="Default Changelist" comment="单例模式">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_db2_db2jcc4_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_ibm_db2_db2jcc_license_cu_unknown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/mybatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis/src/main/resources/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisgenerator/mybatisgenerator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisgenerator/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatisgenerator/src/resources/generatorConfig.xml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/comgupao/target/" />
     <ignored path="$PROJECT_DIR$/parttern/target/" />
     <ignored path="$PROJECT_DIR$/partten/target/" />
+    <ignored path="$PROJECT_DIR$/mybatisgenerator/target/" />
+    <ignored path="$PROJECT_DIR$/mybatis/target/" />
+    <ignored path="$PROJECT_DIR$/minisring/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/idea$Protopyte.ic" NAME="Protopyte Coverage Results" MODIFIED="1552359923954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.gupao.prototype.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1804075510">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="16" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.17" value="3" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="0-SNAPSHOT" value="1" />
           <entry key="OrangeFactory" value="1" />
           <entry key="Override" value="1" />
           <entry key="SimpleFactory" value="1" />
-          <entry key="java" value="33" />
-          <entry key="xml" value="4" />
+          <entry key="class" value="7" />
+          <entry key="java" value="194" />
+          <entry key="md" value="1" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="33" />
-          <entry key="UML" value="3" />
-          <entry key="XML" value="4" />
+          <entry key="CLASS" value="7" />
+          <entry key="JAVA" value="194" />
+          <entry key="Markdown" value="1" />
+          <entry key="Properties" value="3" />
+          <entry key="UML" value="4" />
+          <entry key="XML" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1144" />
-          <entry key="xml" value="2" />
+          <entry key="java" value="13668" />
+          <entry key="md" value="260" />
+          <entry key="txt" value="54" />
+          <entry key="xml" value="55" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1144" />
-          <entry key="XML" value="2" />
+          <entry key="JAVA" value="13668" />
+          <entry key="Markdown" value="260" />
+          <entry key="PLAIN_TEXT" value="54" />
+          <entry key="XML" value="55" />
         </counts>
       </usages-collector>
     </session>
@@ -55,68 +113,26 @@
     <favorites_list name="idea" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/BeijingFactroy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#210#211#0" expanded="true" />
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#310#311#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/GuangzhouFactroy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#212#213#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#312#313#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactroyTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>put(</find>
+      <find>system</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -128,33 +144,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/comgupao/pom.xml" />
-        <option value="$PROJECT_DIR$/parttern/pom.xml" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Apple.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Fruit.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Orange.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/PromotionKey.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/PromotionActivity.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/Test.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/pay/AliPay.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/pay/WeChatPay.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/pay/JDPay.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/pay/UninonPay.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/pay/PayMent.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/pay/PaySrategy.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/pay/PayResult.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/pay/Order.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/pay/Test.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/Test.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/templet/RowMapper.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/templet/JdbcTemplemt.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/templet/User.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/templet/Test.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/LoginController.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v1/LoginForThirdController.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v2/LoginForThirdController.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v3/LoginForThird.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v3/LoginForTel.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v3/LoginForQQ.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v3/LoginForWeChat.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v3/Login.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/PancakeWithAgg.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/PancakeWithWust.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/Teacher.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/Test.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/Gper.java" />
         <option value="$PROJECT_DIR$/partten/pom.xml" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/simplefactory/SimpleFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/simplefactory/SimpleFactoryTest.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/Factory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/AppleFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/OrangeFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/FactoryMethodTest.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Pork.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Meat.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Beef.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/FruitFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AppleFruitFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/OrangeFruitFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/fruitfactory/OrangeFruitFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/PorkMeatFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/BeefMeatFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/MeatFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/fruitfactory/FruitFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactory.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/BeijingFactroy.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/GuangzhouFactroy.java" />
-        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactroyTest.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/guava/Gper.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/guava/Teacher.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/guava/Test.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/guava/Question.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/observer/Teacher.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/Pancake.java" />
+        <option value="$PROJECT_DIR$/partten/src/main/resources/README.md" />
+        <option value="$PROJECT_DIR$/minisring/pom.xml" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/v3/servlet/com/gupaoedu/mvcframework/v2/servlet/GPDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/action/TwoAction.java" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPController.java" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPService.java" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPReauestMapping.java" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPRequestParam.java" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPAutowired.java" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/demo/service/IDemoService.java" />
+        <option value="$PROJECT_DIR$/minisring/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/demo/mvc/action/DemoAction.java" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/v2/servlet/GPDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/v3/servlet/GPDispatcherServlet.java" />
       </list>
     </option>
   </component>
@@ -173,93 +213,116 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gupaoedu-vip-spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gupaoedu-vip-spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="gupaoedu-vip-spring" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="jetty" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="15" />
     <option name="y" value="30" />
     <option name="width" value="1890" />
     <option name="height" value="930" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="partten" type="462c0819:PsiDirectoryNode" />
+              <item name="minisring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="partten" type="462c0819:PsiDirectoryNode" />
+              <item name="minisring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="partten" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="partten" type="462c0819:PsiDirectoryNode" />
+              <item name="minisring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="partten" type="462c0819:PsiDirectoryNode" />
+              <item name="minisring" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gupao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="partten" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gupao" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="idea" type="b2602c69:ProjectViewProjectNode" />
-              <item name="partten" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="gupao" type="462c0819:PsiDirectoryNode" />
-              <item name="factory" type="462c0819:PsiDirectoryNode" />
-              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Treemap&#9;PSI&#9;JAVA://java.util.TreeMap&#10;Thro&#9;PSI&#9;JAVA://java.lang.Throwable&#10;Type&#9;FILE&#9;jar://C:/jdk1.8.0_112/jre/lib/rt.jar!/java/lang/reflect/Type.class&#10;Class&#9;PSI&#9;JAVA://com.gupao.singleton.innerclass.InnerClassSingletonClass.innerClass#INNER_CLASS_SINGLETON_CLASS" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552051690238" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554452547130" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.gupao.singleton.threadlocal" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.gupao.factory" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.gupao.templet" />
+      <recent name="com.gupao.strategy.pay" />
+      <recent name="com.gupao.delegate" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gupaoedu.mvcframework.v3.servlet" />
+      <recent name="com.gupao.adapter.v3" />
+      <recent name="com.gupao.delegate.mvc" />
+      <recent name="com.gupao.delegate" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\minisring\src\main\resources" />
+      <recent name="D:\idea\minisring\src\main\java\com\gupaoedu\demo" />
+      <recent name="D:\idea\minisring\src\main\java\com\gupaoedu" />
+      <recent name="D:\idea\minisring\src\main\java\com\gupaoedu\mvcframework" />
+      <recent name="D:\idea\minisring\src\main\webapp\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -274,86 +337,153 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AbstractFactroyTest">
-    <configuration name="AbstractFactroyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Maven.gupaoedu-vip-spring [jetty:run-war]">
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gupao.decorator.guava.Test" />
       <module name="partten" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gupao.factory.abstractfactory.*" />
+          <option name="PATTERN" value="com.gupao.decorator.guava.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gupao.factory.abstractfactory" />
-      <option name="MAIN_CLASS_NAME" value="com.gupao.factory.abstractfactory.AbstractFactroyTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactoryMethodTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gupao.strategy.promotion.Test" />
       <module name="partten" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.gupao.factory.factorymethod.*" />
+          <option name="PATTERN" value="com.gupao.strategy.promotion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.gupao.factory.factorymethod" />
-      <option name="MAIN_CLASS_NAME" value="com.gupao.factory.factorymethod.FactoryMethodTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleFactoryTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="partten" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gupao.factory.simplefactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.gupao.factory.simplefactory" />
-      <option name="MAIN_CLASS_NAME" value="com.gupao.factory.simplefactory.SimpleFactoryTest" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="gupaoedu-vip-spring [jetty:deploy-war]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:deploy-war" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/minisring" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
     </configuration>
-    <configuration name="SimpleFactoryTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="partten" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.gupao.factory.simplefactory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.gupao.factory.simplefactory" />
-      <option name="MAIN_CLASS_NAME" value="com.gupao.factory.simplefactory.SimpleFactoryTest" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="gupaoedu-vip-spring [jetty:run-exploded]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run-exploded" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/minisring" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="gupaoedu-vip-spring [jetty:run-war]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run-war" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/minisring" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="gupaoedu-vip-spring [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jetty:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/minisring" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JUnit.SimpleFactoryTest.test" />
-      <item itemvalue="JUnit.SimpleFactoryTest.test1" />
-      <item itemvalue="JUnit.FactoryMethodTest.test" />
-      <item itemvalue="JUnit.AbstractFactroyTest" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (4)" />
+      <item itemvalue="Maven.gupaoedu-vip-spring [jetty:run]" />
+      <item itemvalue="Maven.gupaoedu-vip-spring [jetty:run-exploded]" />
+      <item itemvalue="Maven.gupaoedu-vip-spring [jetty:deploy-war]" />
+      <item itemvalue="Maven.gupaoedu-vip-spring [jetty:run-war]" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AbstractFactroyTest" />
-        <item itemvalue="JUnit.FactoryMethodTest.test" />
-        <item itemvalue="JUnit.SimpleFactoryTest.test1" />
-        <item itemvalue="JUnit.SimpleFactoryTest.test" />
+        <item itemvalue="Maven.gupaoedu-vip-spring [jetty:run-war]" />
+        <item itemvalue="Maven.gupaoedu-vip-spring [jetty:deploy-war]" />
+        <item itemvalue="Maven.gupaoedu-vip-spring [jetty:run-exploded]" />
+        <item itemvalue="Maven.gupaoedu-vip-spring [jetty:run]" />
+        <item itemvalue="Application.Test (4)" />
       </list>
     </recent_temporary>
   </component>
   <component name="StructureViewFactory">
-    <option name="ACTIVE_ACTIONS" value=",SHOW_NON_PUBLIC" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_INTERFACES" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -367,64 +497,206 @@
       <updated>1552030285562</updated>
       <workItem from="1552030288838" duration="6986000" />
       <workItem from="1552045801173" duration="2185000" />
+      <workItem from="1552192445062" duration="7447000" />
+      <workItem from="1552314107221" duration="930000" />
+      <workItem from="1552320388132" duration="1332000" />
+      <workItem from="1552358331487" duration="2229000" />
+      <workItem from="1552438016714" duration="614000" />
+      <workItem from="1552472777810" duration="5600000" />
+      <workItem from="1552568955290" duration="5375000" />
+      <workItem from="1552703657518" duration="4215000" />
+      <workItem from="1552911071723" duration="8485000" />
+      <workItem from="1553002415317" duration="82000" />
+      <workItem from="1553339952368" duration="1055000" />
+      <workItem from="1553348103997" duration="26000" />
+      <workItem from="1553655258404" duration="18592000" />
+      <workItem from="1553779843489" duration="252000" />
+      <workItem from="1553783539632" duration="626000" />
+      <workItem from="1554301986015" duration="610000" />
+      <workItem from="1554384542165" duration="1245000" />
     </task>
+    <task id="LOCAL-00001" summary="单例模式">
+      <created>1552232409077</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1552232409077</updated>
+    </task>
+    <task id="LOCAL-00002" summary="原型模式">
+      <created>1552359992591</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552359992592</updated>
+    </task>
+    <task id="LOCAL-00003" summary="代理模式">
+      <created>1552479609710</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1552479609710</updated>
+    </task>
+    <task id="LOCAL-00004" summary="委派和策略">
+      <created>1552574349290</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1552574349290</updated>
+    </task>
+    <task id="LOCAL-00005" summary="模板模式">
+      <created>1552917796640</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552917796640</updated>
+    </task>
+    <task id="LOCAL-00006" summary="观察者模式">
+      <created>1552921783950</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1552921783950</updated>
+    </task>
+    <task id="LOCAL-00007" summary="单例模式">
+      <created>1553341008419</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1553341008420</updated>
+    </task>
+    <task id="LOCAL-00008" summary="单例模式">
+      <created>1553783567230</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1553783567231</updated>
+    </task>
+    <task id="LOCAL-00009" summary="annotation and DI">
+      <created>1554384568040</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554384568041</updated>
+    </task>
+    <task id="LOCAL-00010" summary="aop">
+      <created>1554452552229</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554452552229</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SimpleFactoryTest_test - 2019.03.08 at 15h 51m 47s.xml">
-      <configuration name="SimpleFactoryTest.test" configurationId="JUnit" />
+    <history-entry file="Test_test - 2019.03.18 at 22h 40m 21s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimpleFactoryTest_test - 2019.03.08 at 15h 52m 18s.xml">
-      <configuration name="SimpleFactoryTest.test" configurationId="JUnit" />
+    <history-entry file="Test_test - 2019.03.18 at 22h 40m 57s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimpleFactoryTest_test1 - 2019.03.08 at 15h 56m 19s.xml">
-      <configuration name="SimpleFactoryTest.test1" configurationId="JUnit" />
+    <history-entry file="Test_test - 2019.03.18 at 22h 42m 09s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FactoryMethodTest_test - 2019.03.08 at 16h 09m 27s.xml">
-      <configuration name="FactoryMethodTest.test" configurationId="JUnit" />
+    <history-entry file="Test_test - 2019.03.18 at 22h 42m 50s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AbstractFactroyTest - 2019.03.08 at 20h 40m 42s.xml">
-      <configuration name="AbstractFactroyTest" configurationId="JUnit" />
+    <history-entry file="Test_test - 2019.03.18 at 22h 43m 16s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.03.18 at 22h 44m 09s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.03.18 at 22h 44m 34s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.03.18 at 22h 44m 52s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.03.18 at 22h 46m 12s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test_test - 2019.03.18 at 22h 46m 20s.xml">
+      <configuration name="Test.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9171000" />
+    <option name="totallyTimeSpent" value="67886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7532467" visible="true" weight="0.25469387" />
-      <window_info id="Structure" order="1" sideWeight="0.24675325" side_tool="true" visible="true" weight="0.25469387" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" weight="0.32979593" />
-      <window_info id="Favorites" order="7" sideWeight="0.50276244" side_tool="true" weight="0.24979591" />
-      <window_info active="true" anchor="bottom" id="SVN Repositories" weight="0.3283859" />
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.74127907" visible="true" weight="0.3420408" />
+      <window_info id="Structure" order="2" sideWeight="0.25" side_tool="true" weight="0.32734695" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Learn" order="7" weight="0.32979593" />
+      <window_info id="Favorites" order="8" sideWeight="0.50276244" side_tool="true" weight="0.24979591" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3283859" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23562153" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.12244898" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3283859" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.135436" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.20964749" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="12" weight="0.3283859" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32979593" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.19918367" />
+      <window_info anchor="right" id="CDI" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32979593" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.74127907" visible="true" weight="0.32734695" />
+      <window_info id="Structure" order="2" sideWeight="0.25" side_tool="true" weight="0.32734695" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Learn" order="7" weight="0.32979593" />
+      <window_info id="Favorites" order="8" sideWeight="0.50276244" side_tool="true" weight="0.24979591" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23562153" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.12244898" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.13914657" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.20964749" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" order="12" weight="0.3283859" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32979593" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.19918367" />
+      <window_info anchor="right" id="CDI" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32979593" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -432,251 +704,390 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="原型模式" />
+    <MESSAGE value="代理模式" />
+    <MESSAGE value="委派和策略" />
+    <MESSAGE value="模板模式" />
+    <MESSAGE value="观察者模式" />
+    <MESSAGE value="单例模式" />
+    <MESSAGE value="annotation and DI" />
+    <MESSAGE value="aop" />
+    <option name="LAST_COMMIT_MESSAGE" value="aop" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/partten/src/main/java/com/gupao/proxy/GPProxy.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/partten/src/main/java/com/gupao/strategy/promotion/Test.java</url>
+          <line>25</line>
+          <properties class="com.gupao.strategy.promotion.Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/partten/src/main/java/com/gupao/Test.java</url>
+          <line>4</line>
+          <properties class="com.gupao.Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="MavenRunConfiguration">
+        <watch expression="list.get(0)" />
+        <watch expression="list.get(1)" />
+        <watch expression="list.get(2)" language="JAVA" />
+        <watch expression="((HashMap)ioc).entrySet().toArray()[0]" custom="java.util.HashMap" />
+        <watch expression="((HashMap.Node)((HashMap)ioc).entrySet().toArray()[0]).getKey()" custom="java.util.HashMap.Node,java.util.HashMap" />
+        <watch expression="((DemoAction)((HashMap.Node)((HashMap)ioc).entrySet().toArray()[0]).getValue()).iDemoService" custom="java.util.HashMap.Node,com.gupaoedu.demo.mvc.action.DemoAction,java.util.HashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>list.get(2)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/comgupao/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/parttern/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partten/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Orange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/simplefactory/SimpleFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Apple.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/simplefactory/SimpleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.gupao.factory.simplefactory.SimpleFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.gupao.factory.simplefactory.SimpleFactory</OriginalElement>
-          <nodes>
-            <node x="" y="">com.gupao.factory.Orange</node>
-            <node x="" y="">com.gupao.factory.simplefactory.SimpleFactory</node>
-            <node x="" y="">com.gupao.factory.Fruit</node>
-            <node x="" y="">com.gupao.factory.Apple</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="75.0" y="131.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factoryMethod.java" />
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/AppleFactory.java">
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/templet/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-          </folding>
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/FactoryMethodTest.java">
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="198">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/java.lang.Override">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.lang.Override</OriginalElement>
-          <nodes>
-            <node x="" y="">java.lang.Override</node>
-            <node x="" y="">java.lang.annotation.Annotation</node>
-            <node x="" y="">java.lang.annotation.Target</node>
-            <node x="" y="">java.lang.annotation.Retention</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="91.0" y="145.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter.java" />
+    <entry file="jar://C:/jdk1.8.0_112/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="537" column="17" lean-forward="true" selection-start-line="537" selection-start-column="17" selection-end-line="537" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/factorymethod/OrangeFactory.java">
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v1/LoginForThirdController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v2/LoginForThirdController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
-          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#190#191#0" expanded="true" />
-          </folding>
+          <caret line="31" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://JAVA/com.gupao.factory.factorymethod.OrangeFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.gupao.factory.factorymethod.OrangeFactory</OriginalElement>
-          <nodes>
-            <node x="" y="">com.gupao.factory.factorymethod.FactoryMethodTest</node>
-            <node x="" y="">com.gupao.factory.factorymethod.AppleFactory</node>
-            <node x="" y="">com.gupao.factory.factorymethod.Factory</node>
-            <node x="" y="">com.gupao.factory.factorymethod.OrangeFactory</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-142.0" y="149.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v3/LoginForTel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstracyfactory.java" />
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Pork.java">
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v3/LoginForThird.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v3/LoginForQQ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Fruit.java">
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v3/LoginForWeChat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="220">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Meat.java">
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/adapter/v3/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        <state relative-caret-position="198">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/Beef.java">
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/PancakeWithWust.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/fruitfactory/OrangeFruitFactory.java" />
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/fruitfactory/AppleFruitFactory.java" />
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/BeefMeatFactory.java" />
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/PorkMeatFactory.java" />
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/meatfactory/MeatFactory.java">
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/PancakeWithAgg.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk1.8.0_112/src.zip!/java/util/Observable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-526">
+          <caret line="131" column="16" selection-start-line="131" selection-start-column="16" selection-end-line="131" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/guava.java" />
+    <entry file="file://$PROJECT_DIR$/partten/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/resources/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="286">
+            <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/observer/guava/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/observer/guava/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/observer/guava/Gper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/observer/guava/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/observer/Gper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/observer/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/fruitfactory/FruitFactory.java">
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/observer/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/decorator/Pancake.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/v3/servlet/com/gupaoedu/mvcframework/v2/servlet/GPDispatcherServlet.java" />
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPRequestMapping.java" />
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/action/TwoAction.java" />
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/demo/mvc/action/TwoAction.java" />
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactory.java">
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPReauestMapping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/BeijingFactroy.java">
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPRequestParam.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#210#211#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#283#284#0" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="154">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/GuangzhouFactroy.java">
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/demo/service/IDemoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#285#286#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="66">
+          <caret line="3" column="3" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partten/src/main/java/com/gupao/factory/abstractfactory/AbstractFactroyTest.java">
+    <entry file="file://$PROJECT_DIR$/minisring/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="244">
+          <caret line="32" column="37" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk1.8.0_112/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="381" column="29" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk1.8.0_112/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="433" selection-start-line="433" selection-end-line="433" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk1.8.0_112/src.zip!/java/util/Locale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16720" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk1.8.0_112/jre/lib/rt.jar!/sun/util/locale/LocaleUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/annotation/GPAutowired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/demo/service/impl/DemoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/jdk1.8.0_112/src.zip!/java/lang/reflect/Parameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="197" column="16" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/demo/mvc/action/DemoAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar!/javax/servlet/ServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/repository/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar!/javax/servlet/ServletRequestWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-836">
+          <caret line="14" column="54" lean-forward="true" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/v2/servlet/GPDispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/minisring/src/main/java/com/gupaoedu/mvcframework/v3/servlet/GPDispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="62" column="12" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -686,10 +1097,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>minisring:war</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -697,7 +1110,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Web</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -732,10 +1145,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>minisring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -755,6 +1170,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -765,5 +1181,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>
