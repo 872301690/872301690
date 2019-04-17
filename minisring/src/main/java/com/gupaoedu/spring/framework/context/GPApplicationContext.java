@@ -1,6 +1,10 @@
 package com.gupaoedu.spring.framework.context;
 
 import com.gupaoedu.spring.framework.annotation.GPAutowired;
+import com.gupaoedu.spring.framework.aop.GPAopProxy;
+import com.gupaoedu.spring.framework.aop.GPJDKAopProxy;
+import com.gupaoedu.spring.framework.aop.config.GPAOPConfig;
+import com.gupaoedu.spring.framework.aop.support.GPAdvisedSupport;
 import com.gupaoedu.spring.framework.beans.GPBeanWapper;
 import com.gupaoedu.spring.framework.beans.config.GPBeanDefinition;
 import com.gupaoedu.spring.framework.beans.config.GPBeanPostProcessor;
@@ -114,6 +118,7 @@ public class GPApplicationContext extends GPDefautListableApplicationContext imp
             }
             field.setAccessible(true);
             if(this.objects.get(value) == null){ continue; }
+
             field.set(instances,objects.get(value).getInstances());
 
         }
@@ -134,11 +139,23 @@ public class GPApplicationContext extends GPDefautListableApplicationContext imp
         Class<?> aClass = Class.forName(className);
         instance = aClass.newInstance();
 
+        GPAdvisedSupport config = new GPAdvisedSupport();
+        config.setTarget(instance);
+        config.setTargetClass(aClass);
 
+        if(config.pointCutMatch()){
+            instance = createProxy(config).getProxy();
+        }
 
         return instance;
     }
 
+    private GPAopProxy createProxy(GPAdvisedSupport config) {
+        if(config.getTargetClass().getInterfaces().length > 0){
+            return new GPJDKAopProxy(config);
+        }
+        return null;
+    }
 
 
     public  Set<String> getBeanDefinitionNames(){
