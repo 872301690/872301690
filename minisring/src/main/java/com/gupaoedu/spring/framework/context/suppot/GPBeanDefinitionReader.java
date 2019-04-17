@@ -17,6 +17,9 @@ public class GPBeanDefinitionReader {
     private static  final String  SCAN_PACKAGE = "scanPackage";
     private List<String> registerClass = new ArrayList<>();
 
+    public Properties getConfig(){
+        return config;
+    }
     public GPBeanDefinitionReader(String[] configs) {
         for (int i = 0; i < configs.length;i++){
             String config = configs[i];

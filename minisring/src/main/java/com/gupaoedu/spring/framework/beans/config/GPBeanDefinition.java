@@ -4,6 +4,15 @@ public class GPBeanDefinition {
     private String className;
     private boolean isLazyInit;
     private String name;
+    private boolean isSington = true;
+
+    public boolean isSington() {
+        return isSington;
+    }
+
+    public void setSington(boolean sington) {
+        isSington = sington;
+    }
 
     public String getClassName() {
         return className;

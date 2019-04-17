@@ -1,15 +1,24 @@
 package com.gupaoedu.spring.framework.context;
 
+import com.gupaoedu.spring.framework.annotation.GPAutowired;
+import com.gupaoedu.spring.framework.beans.GPBeanWapper;
 import com.gupaoedu.spring.framework.beans.config.GPBeanDefinition;
+import com.gupaoedu.spring.framework.beans.config.GPBeanPostProcessor;
 import com.gupaoedu.spring.framework.beans.suppot.GPDefautListableApplicationContext;
 import com.gupaoedu.spring.framework.context.suppot.GPBeanDefinitionReader;
 import com.gupaoedu.spring.framework.core.GPBeanFacory;
 
-import java.util.List;
+import java.lang.reflect.Field;
+import java.util.*;
+import java.util.concurrent.ConcurrentHashMap;
+import java.util.concurrent.ConcurrentMap;
 
 public class GPApplicationContext extends GPDefautListableApplicationContext implements GPBeanFacory {
 
     private String[] configs;
+
+    private Map<String, GPBeanWapper> signtonObject = new ConcurrentHashMap();
+    private Map<String,GPBeanWapper> objects = new ConcurrentHashMap();
 
     private GPBeanDefinitionReader reader;
     public GPApplicationContext(String ...configs)  {
@@ -33,7 +42,11 @@ public class GPApplicationContext extends GPDefautListableApplicationContext imp
         for (String key : definitionMap.keySet()){
             GPBeanDefinition beanDefinition = definitionMap.get(key);
             if(!beanDefinition.isLazyInit()){
-                getBean(beanDefinition.getName());
+                try {
+                    getBean(beanDefinition.getName());
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
             }
         }
     }
@@ -49,11 +62,95 @@ public class GPApplicationContext extends GPDefautListableApplicationContext imp
     }
 
     @Override
-    public Object getBean(String name) {
-        return null;
+    public Object getBean(String name)  {
+
+        GPBeanDefinition beanDefinition = this.definitionMap.get(name);
+        try {
+
+
+            //缓存中没有
+            Object instance = null;
+            GPBeanPostProcessor processor = new GPBeanPostProcessor();
+
+            processor.postProcessBeforeInitialization(instance,name);
+            //创建Bean
+            instance = doCreateBean(beanDefinition,name);
+
+            GPBeanWapper beanWapper = new GPBeanWapper(instance);
+            signtonObject.put(name,beanWapper);
+            signtonObject.put(instance.getClass().getName(),beanWapper);
+            objects.put(name,beanWapper);
+            processor.postProcessAfterInitialization(instance,name);
+
+            populateBean(name,beanDefinition,beanWapper);
+
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+        return this.objects.get(name).getInstances();
     }
 
-    public static void main(String[] args) {
+    private void populateBean(String name, GPBeanDefinition beanDefinition, GPBeanWapper beanWapper) throws IllegalAccessException, InstantiationException {
+        Object instances = null;
+        if(beanDefinition.isSington()){
+            instances =  beanWapper.getInstances();
+        }else{
+            instances = beanWapper.getWappedClass().newInstance();
+        }
+
+        Field[] fields = instances.getClass().getDeclaredFields();
+
+        for(int i = 0 ; i < fields.length ; i++){
+            Field field = fields[i];
+            GPAutowired autowired = field.getAnnotation(GPAutowired.class);
+            if(autowired == null) continue;
+
+            String value = autowired.value();
+            if(value == null || value.equals("")){
+                //按类型注入
+               value = field.getType().getName();
+
+            }
+            field.setAccessible(true);
+            if(this.objects.get(value) == null){ continue; }
+            field.set(instances,objects.get(value).getInstances());
+
+        }
+
+    }
+
+    private Object doCreateBean(GPBeanDefinition beanDefinition, String name) throws Exception {
+         if(beanDefinition.isSington()){
+            GPBeanWapper beanWapper = signtonObject.get(name);
+            if(beanWapper != null) return beanWapper.getInstances();
+        }else{
+            GPBeanWapper beanWapper = objects.get(name);
+            if(beanWapper != null) return beanWapper.getWappedClass().newInstance();
+        }
+
+        Object instance = null;
+        String className = beanDefinition.getClassName();
+        Class<?> aClass = Class.forName(className);
+        instance = aClass.newInstance();
+
+
+
+        return instance;
+    }
+
+
+
+    public  Set<String> getBeanDefinitionNames(){
+        return definitionMap.keySet();
+    }
+
+    public static void main(String[] args) throws Exception {
         GPApplicationContext context = new GPApplicationContext("classPath:application.properties");
+        context.getBean("demoAction");
+    }
+
+    public Properties getConfig(){
+        return  reader.getConfig();
     }
 }
